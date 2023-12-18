@@ -1,5 +1,6 @@
-# HR-Employee-Dataset-Analysis-Using-Tableau
-The Project is to develop an attractive Dashboard, which helps in visualizing the insights out of the HR Data. It consists of Employees detail about their job status, performance, resignation reason, etc. Using these attributes insights are developed out of data.
+# HR - Employee Dataset Analysis Using Tableau
+
+The objective of the project is to create an engaging dashboard designed to visualize meaningful insights derived from HR data. This dashboard encompasses comprehensive employee information, including job status, performance metrics, reasons for resignation, and more. The goal is to derive valuable insights by analyzing and presenting data based on these attributes.
 
 ![Screenshot (201)](https://user-images.githubusercontent.com/32011622/60383852-539ac500-9a94-11e9-832b-68648bc5c1ba.png)
 
